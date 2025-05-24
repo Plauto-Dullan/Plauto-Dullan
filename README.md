@@ -1,6 +1,6 @@
 - 👋 Olá, eu me chamo Plauto Dullan
 - 👀 Tenho bastante interesse crescer na área da programação
-- 🌱 Atualmente estou aprendendo Python, HTML, CSS
+- 🌱 Atualmente estou aprendendo Java, Python, HTML, CSS
 - 💞️ Procuro ser focado e ir atrás de resultados e produtividaes, mesmo sendo iniciante busco dar o meu melhor
 - 📫 Como entrar em contato comigo: plautodullan.contact@gmail.com
 <!---
