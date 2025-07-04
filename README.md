@@ -1,3 +1,3 @@
-
 <h2>Oii eu sou Plauto Dullan</h2>
-
+<h3>Desenvolvo nas linguaguens de marcação HTML5 e CSS3 e programo nas linguaguens JavaScript e Python</h3>
+<a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30"></a> <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css33" width="30"></a> <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="30"></a> <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30"></a>
